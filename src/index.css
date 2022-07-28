@@ -9,6 +9,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #282c34;
   color: #61dafb;
+  padding: 1rem;
 }
 
 h1 {
