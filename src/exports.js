@@ -1,3 +1,8 @@
+// useContext Hook 
+export { default as Cont1ComponentA } from './useContext/Cont1ComponentA.js';
+export { default as Cont2ComponentB } from './useContext/Cont2ComponentB.js';
+export { default as Cont3ComponentC } from './useContext/Cont3ComponentC.js';
+
 // useEffect Hook
 export { default as E1ClassCounter1 } from "./useEffectHook/E1ClassCounter1";
 export { default as E2HookCounter1 } from "./useEffectHook/E2HookCounter1";
@@ -9,6 +14,7 @@ export { default as E7MouseContainer } from "./useEffectHook/E7MouseContainer";
 export { default as E8IntervalClassCounter } from "./useEffectHook/E8IntervalClassCounter";
 export { default as E9IntervalHookCounter } from "./useEffectHook/E9IntervalHookCounter";
 export { default as E10DataFetching } from './useEffectHook/E10DataFetching'
+
 // useState Hook
 export { default as St1ClassCounter } from "./useStateHook/St1ClassCounter";
 export { default as St2HookCounter } from "./useStateHook/St2HookCounter";
