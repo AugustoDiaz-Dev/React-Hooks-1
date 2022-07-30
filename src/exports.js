@@ -1,7 +1,22 @@
+// useReducer Hook 
+export { default as Red1Counter1 } from './useReducer/Red1Counter1';
+export { default as Red2Counter2 } from './useReducer/Red2Counter2';
+export { default as Red3Counter3 } from './useReducer/Red3Counter3';
+
+export { default as Red4AComponent } from './useReducer/Red4AComponent';
+export { default as Red4BComponent } from './useReducer/Red4BComponent';
+export { default as Red4CComponent } from './useReducer/Red4CComponent';
+export { default as Red4DComponent } from './useReducer/Red4DComponent';
+export { default as Red4EComponent } from './useReducer/Red4EComponent';
+export { default as Red4FComponent } from './useReducer/Red4FComponent';
+
+export { default as Red5DataFetching1 } from './useReducer/Red6DataFetching2';
+export { default as Red6DataFetching2 } from './useReducer/Red6DataFetching2';
+
 // useContext Hook 
-export { default as Cont1ComponentA } from './useContext/Cont1ComponentA.js';
-export { default as Cont2ComponentB } from './useContext/Cont2ComponentB.js';
-export { default as Cont3ComponentC } from './useContext/Cont3ComponentC.js';
+export { default as Cont1ComponentA } from './useContext/Cont1ComponentA';
+export { default as Cont2ComponentB } from './useContext/Cont2ComponentB';
+export { default as Cont3ComponentC } from './useContext/Cont3ComponentC';
 
 // useEffect Hook
 export { default as E1ClassCounter1 } from "./useEffectHook/E1ClassCounter1";
